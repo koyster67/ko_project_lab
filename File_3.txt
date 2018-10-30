@@ -1,3 +1,7 @@
 File three line one
 File three line two
 File three line three
+Another line
+Yet another
+And that makes 3
+Lets add a fourth for good luck
